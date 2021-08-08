@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Our Digital Services
 subtitle: lorem-ipsum
 seo:
   title: ''
